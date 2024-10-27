@@ -9,5 +9,5 @@ Recommendations: Propose strategies to enhance profitability through optimized c
 
 Impact Simulation: Forecast financial outcomes from strategic adjustments.
 
-Dependencies
+Dependencies:
 Python, Pandas, Matplotlib, Seaborn
