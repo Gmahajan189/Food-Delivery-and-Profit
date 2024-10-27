@@ -5,5 +5,6 @@ Components
 Cost Analysis: Identify direct and indirect costs.
 Recommendations: Propose strategies to enhance profitability through optimized commission and discount rates.
 Impact Simulation: Forecast financial outcomes from strategic adjustments.
+
 Dependencies
 Python, Pandas, Matplotlib, Seaborn
